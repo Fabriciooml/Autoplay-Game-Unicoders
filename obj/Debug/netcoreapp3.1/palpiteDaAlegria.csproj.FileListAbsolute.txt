@@ -1,0 +1,13 @@
+D:\git\unicoders\palpiteDaAlegria\bin\Debug\netcoreapp3.1\palpiteDaAlegria.exe
+D:\git\unicoders\palpiteDaAlegria\bin\Debug\netcoreapp3.1\palpiteDaAlegria.deps.json
+D:\git\unicoders\palpiteDaAlegria\bin\Debug\netcoreapp3.1\palpiteDaAlegria.runtimeconfig.json
+D:\git\unicoders\palpiteDaAlegria\bin\Debug\netcoreapp3.1\palpiteDaAlegria.runtimeconfig.dev.json
+D:\git\unicoders\palpiteDaAlegria\bin\Debug\netcoreapp3.1\palpiteDaAlegria.dll
+D:\git\unicoders\palpiteDaAlegria\bin\Debug\netcoreapp3.1\palpiteDaAlegria.pdb
+D:\git\unicoders\palpiteDaAlegria\obj\Debug\netcoreapp3.1\palpiteDaAlegria.csprojAssemblyReference.cache
+D:\git\unicoders\palpiteDaAlegria\obj\Debug\netcoreapp3.1\palpiteDaAlegria.AssemblyInfoInputs.cache
+D:\git\unicoders\palpiteDaAlegria\obj\Debug\netcoreapp3.1\palpiteDaAlegria.AssemblyInfo.cs
+D:\git\unicoders\palpiteDaAlegria\obj\Debug\netcoreapp3.1\palpiteDaAlegria.csproj.CoreCompileInputs.cache
+D:\git\unicoders\palpiteDaAlegria\obj\Debug\netcoreapp3.1\palpiteDaAlegria.dll
+D:\git\unicoders\palpiteDaAlegria\obj\Debug\netcoreapp3.1\palpiteDaAlegria.pdb
+D:\git\unicoders\palpiteDaAlegria\obj\Debug\netcoreapp3.1\palpiteDaAlegria.genruntimeconfig.cache
